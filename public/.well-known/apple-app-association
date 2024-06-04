@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "TAY39U4V4H.com.agenciabozdev.loucaselisas",
+                "paths": [
+                    "/app/*"
+                ]
+            }
+        ]
+    },
+    "activitycontinuation": {
+        "apps": [
+            "TAY39U4V4H.com.agenciabozdev.loucaselisas"
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "TAY39U4V4H.com.agenciabozdev.loucaselisas"
+        ]
+    }
+}
