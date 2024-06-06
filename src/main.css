@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('./assets/fonts/FoundersGroteskBOZ-Regular.otf') format('opentype');
+    font-weight: 400; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('./assets/fonts/FoundersGroteskBOZ-Semibold.otf') format('opentype');
+    font-weight: 600; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FoundersGrotesk';
+    src: url('./assets/fonts/FoundersGroteskBOZ-Bold.otf') format('opentype');
+    font-weight: 700; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FoundersGroteskCondensed';
+    src: url('./assets/fonts/FoundersGroteskBOZCond-Lt.otf') format('opentype');
+    font-weight: 300; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FoundersGroteskXCondensed';
+    src: url('./assets/fonts/FoundersGroteskBOZXCond-Lt.otf') format('opentype');
+    font-weight: 300; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FoundersGroteskXCondensed';
+    src: url('./assets/fonts/FoundersGroteskBOZXCond-Bold.otf') format('opentype');
+    font-weight: 700; 
+    font-style: normal;
+}
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: FoundersGrotesk;
+    /* user-select: none; */
+}
+
+form {
+    display: contents;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    height: 100%;
+    overflow: hidden;
+}
+
+#root {
+    height: 100%;
+}
+
+.MuiPaper-root, .MuiBox-root {
+    display: flex;
+    flex-shrink: 0
+}
+/* 
+.MuiBox-root {
+    display: flex;
+    flex-shrink: 0;
+} */
+
+.MuiButton-root, .MuiTab-root {
+    text-transform: none!important;
+}
+
+.MuiChip-label {
+    padding: 0!important;
+}
+
+.files-ui-dropzone-children-container {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 5vw;
+    gap: 5vw;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
