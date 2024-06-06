@@ -1,13 +1,10 @@
 [
     {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.agenciabozdev.loucaselisas",
-        "sha256_cert_fingerprints": [
-          "CC:F9:B8:6B:16:49:AF:72:93:4E:D9:C4:8F:4C:98:B8:DE:2B:34:E6:9E:1B:E4:B3:70:68:CB:19:E1:0F:CC:C0"
-        ]
-      }
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.agenciabozdev.loucaseco",
+            "sha256_cert_fingerprints": ["B6:35:1B:94:B5:EA:35:9D:A5:85:60:73:59:CB:56:46:4F:3C:52:A4:3A:59:15:CF:40:C1:7F:56:F5:A4:08:1D"]
+        }
     }
-  ]
-  
+]

@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "TAY39U4V4H.com.agenciabozdev.loucaselisas",
+                "appID": "TAY39U4V4H.com.agenciabozdev.loucaseco",
                 "paths": [
                     "/app/*"
                 ]
@@ -12,12 +12,12 @@
     },
     "activitycontinuation": {
         "apps": [
-            "TAY39U4V4H.com.agenciabozdev.loucaselisas"
+            "TAY39U4V4H.com.agenciabozdev.loucaseco"
         ]
     },
     "webcredentials": {
         "apps": [
-            "TAY39U4V4H.com.agenciabozdev.loucaselisas"
+            "TAY39U4V4H.com.agenciabozdev.loucaseco"
         ]
     }
 }
